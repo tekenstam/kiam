@@ -7,7 +7,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/coreos/go-iptables v0.3.0
 	github.com/fortytw2/leaktest v1.3.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.0
 	github.com/gorilla/mux v1.7.3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
@@ -23,7 +23,7 @@ require (
 	google.golang.org/grpc v1.36.0
 	google.golang.org/grpc/examples v0.0.0-20211020220737-f00baa6c3c84 // indirect
 	google.golang.org/grpc/security/advancedtls v0.0.0-20200204204621-648cf9b00e25
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/fsnotify.v1 v1.4.7
 	k8s.io/api v0.20.0
